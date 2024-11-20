@@ -10,8 +10,6 @@ As a job seeker, I used to spend over 3 hours every day sending cold emails to r
 
 - **Time Savings**: By automating the email sending process, I was able to significantly reduce the time spent on reaching out to recruiters. What used to take me hours to accomplish manually can now be done within minutes using this automated solution. For instance - once I had names of folks from a company, i was able to send over 50 emails in a few minutes.
 
-    ![Gmail Screenshot](./output_img/output_img.png)
-
 - **Efficiency**: The project generates potential email addresses for recruiters based on common patterns, such as firstname@company.com, firstname.lastname@company.com, and firstnamelastname@company.com. This streamlined approach allows me to quickly send personalized cold emails to a large number of recruiters in less time.
 
 - **Increased Productivity**: With the time saved from manual email sending, I can now allocate more time to other aspects of my job search, such as networking, skill development, and preparing for interviews. This increased productivity has helped me make significant progress in my job search journey.
@@ -84,8 +82,6 @@ As a job seeker, I used to spend over 3 hours every day sending cold emails to r
 
 4. **Verify Sent Emails**: Once the script has finished running, check your email inbox to verify that the emails have been sent successfully.
 
-   ![Email Now](./output_img/email_sent_now.png)
-
 ### Step 6: Schedule Email Delivery
 
 Note: I am aware that this is not ideal but ensure that the script remains running to execute scheduled tasks at the specified times without interruption.
@@ -101,8 +97,6 @@ Note: I am aware that this is not ideal but ensure that the script remains runni
 5. **Monitor Progress**: The script will schedule the emails for delivery at the specified time. You'll see a confirmation message indicating that the emails have been scheduled.
 
 6. **Verify Scheduled Emails**: You can verify the scheduled emails by checking the logs or by ensuring that the emails are sent at the specified time.
-
-   ![Email Later](./output_img/email_sent_later.png)
 
 ### Step 7: Send Follow-Up Emails
 
